@@ -1,0 +1,7 @@
+Listening to Music | Priority: Low | Status: Completed
+Cooking | Priority: High | Status: Completed
+Cleaning | Priority: High | Status: Completed
+Writing Homework | Priority: High | Status: Completed
+Wacthing TV | Priority: Low | Status: Pending
+Reading Books | Priority: Medium | Status: Pending
+Work | Priority: High | Status: Completed
